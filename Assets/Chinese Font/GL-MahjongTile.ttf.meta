@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 52b91b1ab474c28479890948275aab2f
+timeCreated: 1504142278
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GL-MahjongTile
+  fontNames:
+  - GL-MahjongTile
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

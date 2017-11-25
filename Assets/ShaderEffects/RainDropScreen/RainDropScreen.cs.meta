@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 94e20a0292dd5c443802565290a3bb73
+timeCreated: 1504779420
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_mat_RainDopScreen: {fileID: 2100000, guid: 3a689de601f1c8f4e8fa1d9ff8f30d6c,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4bfb981bca380c542b5a22c2228e007c
+timeCreated: 1504089670
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: JXK
+  fontNames:
+  - JXK
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
